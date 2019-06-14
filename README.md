@@ -8,7 +8,7 @@ Minimum spanning tree prim's solver.
 * [Setup](#setup)
 * [Futures](#futures)
 * [How to use?](#how-to-use)
-* [Example of use](#example-of-use)
+* [Status](#status)
 * [Contact Website](#contact-website)
 
 
@@ -31,9 +31,9 @@ To run this project, put it loccally in Julia IDE, or use Juliabox online.
 ## How to use?
 All you have to do is enter the function, put your shema graph to programm
 
-## Example of use
+## Status
 
-
+In progress...
 
 ## Contact Website
 Created by https://eyeoftheengineer.eu/ - feel free to contact me!
